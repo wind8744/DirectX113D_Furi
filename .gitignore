@@ -1,0 +1,8 @@
+.vs/
+Project/Client/x64/
+Project/Script/x64/
+Project/Engine/x64/
+OutputFile/bin/content/
+External/Library/FBXLoader/
+External/Include/FBXLoader/
+/OutputFile

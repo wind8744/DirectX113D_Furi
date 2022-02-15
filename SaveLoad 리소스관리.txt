@@ -1,0 +1,11 @@
+1. 메테리얼 Save Load 관리
+  - Scene 이 Stop(비 활성화, 초기) 상태
+  - 메테리얼 변경 점이 파일로 연동된다.
+  - Prefab Save/ Load 구현
+  - Scene Save
+  
+
+  - Scene 이 Play, Pause(활성화) 상태
+  - 메테리얼 변경점이 파일에 적용되지 않는다.
+  - CloneMaterial 들은 비활성화 될때 제거됨
+ 
